@@ -1,0 +1,3 @@
+[submodule "Manager"]
+	path = Manager
+	url = https://github.com/somKrooz/KroozPackageManager.git
